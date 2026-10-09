@@ -1,0 +1,13 @@
+# Environment
+.env
+
+# Logs
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
